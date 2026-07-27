@@ -1,6 +1,8 @@
+[![test](https://github.com/reinrmz/csv-profiler/actions/workflows/test.yml/badge.svg)](https://github.com/reinrmz/csv-profiler/actions/workflows/test.yml)
+
 # csv-profiler
 
-<!-- TODO: demo GIF -->
+![csv-profiler demo](demo.gif)
 
 A Claude Code skill that profiles messy CSV/Excel files and produces a data-quality report plus suggested cleanup steps.
 
@@ -183,7 +185,7 @@ real data. Row numbers are 1-based counting the header as row 1.
 | `ALL_NULL_COLUMN` | column `legacy_flag` — empty in every row |
 | `EMPTY_COLUMN_NAME` | column 8 — header is blank, pandas labels it `Unnamed: 7` |
 | `SUSPECTED_TOTALS_ROW` | row 32 — `order_id` is `TOTAL`, all text columns blank, `amount` filled |
-| outlier (3σ) | row 31 — `98,750.00`, plus the totals row inflating mean and std |
+| outlier (3σ) | row 32 — the totals row `151,207.24`, the only value beyond 3σ. Row 31's `98,750.00` is large but only ~2.8σ, because the totals row inflates mean and std |
 
 `ENCODING_FALLBACK` and `DUPLICATE_COLUMN_NAME` are not in this file; they need a non-UTF-8
 file and a repeated header respectively.
