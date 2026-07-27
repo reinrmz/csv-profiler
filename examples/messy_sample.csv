@@ -1,0 +1,32 @@
+order_id,order_date,customer_name,city,amount,discount_code,legacy_flag,
+SO-1001,2024-01-15,Alpha Retail Co,Manila,"1,240.50",SPRING10,,ok
+SO-1002,15/01/2024,  Bravo Supplies  ,manila,$980.00,,,ok
+SO-1003,Jan 16 2024,Charlie Trading,MANILA,"2,410.75",SPRING10,,
+SO-1004,2024-01-17,Delta Goods,Cebu,"$3,015.00",,,ok
+SO-1005,17/01/2024,Echo Mercantile,cebu,745.25,SAVE5,,
+SO-1006,Jan 18 2024,  Foxtrot Ltd,CEBU,"1,899.99",,,ok
+SO-1007,2024-01-19,Golf Distribution,Davao,"$620.00",SAVE5,,
+SO-1008,19/01/2024,Hotel Wholesale ,davao,"4,120.40",,,ok
+SO-1009,Jan 20 2024,India Outlet,Davao,"1,050.00",,,
+SO-1010,2024-01-22,Juliet Bazaar,Manila,"$2,265.80",WINTER15,,ok
+SO-1011,22/01/2024,Kilo Depot,manila,"830.10",,,
+SO-1012,Jan 23 2024,  Lima Traders  ,Cebu,"1,475.00",WINTER15,,ok
+SO-1013,2024-01-24,Mike Provisions,CEBU,"$960.65",,,
+SO-1014,24/01/2024,November Stores,Davao,"3,340.00",SAVE5,,ok
+SO-1015,Jan 25 2024,Oscar Imports,davao,"1,120.25",,,
+SO-1016,2024-01-26,Papa Retailers,Manila,"$2,780.90",,,ok
+SO-1017,26/01/2024,Quebec Supply ,MANILA,"640.00",SPRING10,,
+SO-1018,Jan 29 2024,Romeo Outfitters,Cebu,"1,930.55",,,ok
+SO-1019,2024-01-30,Sierra Holdings,cebu,"$1,205.00",,,
+SO-1020,30/01/2024,  Tango Goods,Davao,"2,650.30",WINTER15,,ok
+SO-1021,Jan 31 2024,Uniform Traders,davao,"915.45",,,
+SO-1022,2024-02-01,Victor Merchants,Manila,"$3,480.00",,,ok
+SO-1023,01/02/2024,Whiskey Depot ,manila,"1,375.20",SAVE5,,
+SO-1024,Feb 02 2024,Xray Supplies,Cebu,"2,090.00",,,ok
+SO-1025,2024-02-05,Yankee Retail,CEBU,"$755.75",,,
+SO-1026,05/02/2024,  Zulu Trading  ,Davao,"4,860.90",SPRING10,,ok
+SO-1027,Feb 06 2024,Alpha Retail Co,davao,"1,640.00",,,
+SO-1010,2024-01-22,Juliet Bazaar,Manila,"$2,265.80",WINTER15,,ok
+SO-1014,24/01/2024,November Stores,Davao,"3,340.00",SAVE5,,ok
+SO-1028,2024-02-07,Bravo Supplies,Manila,"98,750.00",,,ok
+TOTAL,,,,"151,207.24",,,
